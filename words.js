@@ -84,7 +84,6 @@ export const RARE_WORDS = [
   { word: "halidom", definition: "A holy place; a holy thing; a sanctuary.", synonyms: ["sanctuary", "holy place", "shrine", "sacred relic", "haven", "asylum", "refuge"] },
   { word: "farrago", definition: "A confused mixture; a hotchpotch.", synonyms: ["jumble", "mixture", "medley", "mishmash", "hodgepodge", "miscellany", "potpourri", "assortment", "farrago"] },
   { word: "apophenia", definition: "The tendency to perceive meaningful connections or patterns where none exist.", synonyms: ["pattern-finding", "pareidolia", "conspiracism", "false-pattern recognition"] },
-  { word: "petrify", definition: "To turn to stone; to paralyze with fear.", synonyms: ["terrify", "paralyze", "horrify", "stun", "freeze", "fossilize", "harden", "ossify"] },
   { word: "perspicuous", definition: "Clearly expressed and easy to understand.", synonyms: ["clear", "lucid", "transparent", "intelligible", "comprehensible", "plain", "explicit", "straightforward"] },
   { word: "spelean", definition: "Pertaining to caves; cave-dwelling.", synonyms: ["cavernous", "cave-like", "subterranean", "underground", "troglodytic"] },
   { word: "thaumaturgy", definition: "The performance of miracles or magic.", synonyms: ["magic", "miracle-working", "sorcery", "wizardry", "wonder-working", "conjuring", "enchantment"] },
