@@ -1,7 +1,7 @@
 # RareWordle
 I have an affinity for rare words, word puzzles, and learning new words, so I thought a wordle clone exclusively for longer/recondite words would be a fun way to combine the 3! All of the words included (so far) are words I already know, but I don't see them used very often, so I'm looking to get them out there more! 
 
-As of now, this repository is pretty much complete. The only thing I'll continue to add to is words.js. 
+As of now, this repository is pretty much complete. The only thing I'll continue to add to is words.js. I may also incorporate AI by replicating the Wordle Bot on the official NYT site. 
 # Image Samples
 Yes, I did guess all of these on the first try with the help of the hints. Like I said, I know all of the words included in the game because they're some of my favorites. 
 <img width="1508" height="808" alt="Screenshot 2026-06-03 at 2 43 24 PM" src="https://github.com/user-attachments/assets/72bc769c-f129-4832-b19a-7b1cd05eceed" />
