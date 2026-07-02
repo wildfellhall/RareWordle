@@ -24,7 +24,6 @@ export const RARE_WORDS = [
   { word: "tergiversate", definition: "To make conflicting or evasive statements; to change one's loyalties.", synonyms: ["equivocate", "prevaricate", "waver", "vacillate", "hedge", "dodge", "evade", "shift"] },
   { word: "mountebank", definition: "A person who deceives others, especially in order to trick them out of money; a charlatan.", synonyms: ["charlatan", "fraud", "swindler", "imposter", "con artist", "quack", "huckster", "trickster"] },
   { word: "oneiric", definition: "Of or relating to dreams; dreamlike.", synonyms: ["dreamlike", "dreamy", "surreal", "visionary", "fantastic", "phantasmagoric"] },
-  { word: "obtrude", definition: "To impose or force (something or oneself) on others without invitation.", synonyms: ["impose", "force", "thrust", "intrude", "press", "inflict", "interject"] },
   { word: "psephology", definition: "The statistical study of elections and voting.", synonyms: ["election-study", "polling", "electoral analysis", "political statistics"] },
   { word: "longanimity", definition: "Patient endurance of hardship, injuries, or offense.", synonyms: ["forbearance", "patience", "endurance", "tolerance", "fortitude", "long-suffering", "stoicism"] },
   { word: "eleemosynary", definition: "Of, relating to, or dependent on charity.", synonyms: ["charitable", "philanthropic", "benevolent", "almsgiving", "humanitarian", "altruistic"] },
