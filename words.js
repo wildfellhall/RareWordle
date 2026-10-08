@@ -112,5 +112,6 @@ export const RARE_WORDS = [
   { word: "vacillate", definition: "Alternate or waver between different opinions or actions; be indecisive.", synonyms: ["waver", "dither", "hesitate", "teeter", "fluctuate"] },
   { word: "absquatulate", definition: "To leave abruptly.", synonyms: ["bolt", "flee", "decamp", "vamoose", "escape"] },
   { word: "pervicacious", definition: "Obstinate; stubborn.", synonyms: ["stubborn", "obstinate", "headstrong", "willful", "unyielding"] },
-  { word: "suspiration", definition: "A long deep breath; a sigh.", synonyms: ["sigh", "breath", "gasp", "heave", "exhalation"] }
+  { word: "suspiration", definition: "A long deep breath; a sigh.", synonyms: ["sigh", "breath", "gasp", "heave", "exhalation"] },
+  { word: "kenspeckle", definition: "Conspicuous, easily recognizable, or familiar in appearance", synonyms: ["conspicuous", "overt", "recognizable"] }
 ];
